@@ -10,7 +10,7 @@ Term: Spring 2017
 	+ Nie, Kexin kn2403@columbia.edu    
 	+ Schiltz, Marie ms5293@columbia.edu    
 	+ Wei, Jihan jw3447@columbia.edu     
-	+ Zhu, Chenyun cz2434@columbia.edu     
+	+ Zhu, Chenyun cz2434@columbia.edu (Presenter)   
 	+ Zhu, He hz2429@columbia.edu         
 
 + Project summary: In this project, we created a classification engine for grayscale images of poodles versus images of fried chickens. We set our baseline model using SIFT features and gradient boosting machine(GBM) classifier. Besides the SIFT features, we also tried GIST descriptor. In terms of classifiers, we considered SVM(linear and non-linear), Random Forest, XGBoost and GBM. After model evaluation and comparison, the final advanced model we selected is using GIST descriptor and XGBoost classifier. We increased the accuracy by 17.7% and only took 0.41% of running time as in baseline model.
